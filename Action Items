@@ -1,6 +1,38 @@
-Project:
-  Action:
-  Deliverables:
-  Duration:
-  Dependencies:
-  Man Hours: TBD
+Task Priority:
+1. Complete & Issue Overall Instrument I/O List
+2. Send inputs for Loop Sheets development
+3. Redline Quotes for PO Placement
+4. Progress Instrument Datasheets (30)
+5. Numerous Meetings
+
+Concern /  Assumption:
+- TBD
+
+Project No.1: BOP
+  Deliverables & Actions:   
+    *   Complete Overall Instrument I/O List
+    -   BOP MDR List
+    -   DEETH 2 Tasks & Meetings & Requirements
+
+Project No.2: 60M
+  Deliverables & Actions:   
+    -   Redline Quotes for PO Placement
+    -   Instrument I/O List
+    *   Instrument Datasheets
+    n/a Instrument Location Plan 
+    -   Instrument Wiring Schedule
+    -   Instrument Loop Sheets:      
+  
+Project No.3: 30M
+  Deliverables & Actions:   
+    -   Instrument Index
+    -   Instrument I/O List
+    *   Instrument Datasheets
+    n/a Instrument Location Plan 
+    -   Instrument Wiring Schedule
+    *   Instrument Loop Sheets:       
+  Dependencies to Start:
+    1. Material Balance
+    2. Process Flow Diagram
+    3. P&ID Completion IFD State 
+    4. Line List
